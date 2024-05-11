@@ -66,7 +66,7 @@ onMounted(() => {
 <template>
 
   <header>
-    <h1>App TodoList Wahyu</h1>
+    <h1>App TodoList-Crud Wahyu</h1>
   </header>
 
   <main class="app">
